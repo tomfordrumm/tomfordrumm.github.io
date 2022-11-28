@@ -102,6 +102,10 @@ a:hover {
         background-color: black;
         color: #c8cbcd;
     }
+    
+    a {
+        color: #fff;
+    }
 
     .content__social-item img,
     .footer__social-item img{
